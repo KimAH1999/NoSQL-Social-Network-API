@@ -12,3 +12,13 @@ connect(connectionString, {
 });
 
 module.exports = connection;
+
+//Another way to write connection funtion with mongoose//
+//-------------------------------------------------------//
+//const mongoose = require('mongoose');
+//mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:#####/...', {
+  //useNewUrlParser: true,
+  //useUnifiedTopology: true
+//});
+//module.exports = mongoose.connection;
+//-------------------------------------------------------//
