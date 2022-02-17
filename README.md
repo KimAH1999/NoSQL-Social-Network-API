@@ -40,7 +40,7 @@ Available to be reached through Linkdin and Slack, which is avilable in personal
 To run tests, run the following command:
 
 ```
-node server.js
+npm run start
 ```
 
 ## Questions
