@@ -29,7 +29,7 @@ npm install
 
 ## Usage
 
-demo
+https://screencast-o-matic.com/watch/c3nFhnVbr0w
   
 ## Contributing
 
