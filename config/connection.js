@@ -3,7 +3,7 @@ const { connect, connection } = require('mongoose');
 
 //Connection string
 const connectionString =
-  process.env.MONGODB_URI || 'mongodb://localhost:...'; //update to mongoDB uri address
+  process.env.MONGODB_URI || 'mongodb://0.0.0.0:27017/SocialNetworkDB'; //update to mongoDB uri address
 
 //mongoDB connection string
 connect(connectionString, {
