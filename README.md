@@ -29,7 +29,10 @@ npm install
 
 ## Usage
 
-https://screencast-o-matic.com/watch/c3nFhnVbr0w
+LINK WALKTHROUGH: https://screencast-o-matic.com/watch/c3nFhnVbr0w
+
+![image](https://user-images.githubusercontent.com/87666809/154621086-7df80787-9214-450f-a12a-3f9fc67040cf.png)
+
   
 ## Contributing
 
